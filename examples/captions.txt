@@ -1,0 +1,3 @@
+Step 1: Open the leave request page
+Step 2: Click submit
+Step 3: Validation message appears incorrectly
