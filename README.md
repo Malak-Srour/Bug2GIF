@@ -3,6 +3,8 @@
 Convert step-by-step screenshots into one clean animated **GIF** (or **MP4**) to make
 bug reports clearer in GitHub issues, Jira, Trello, and QA documentation.
 
+![Bug2GIF demo](images/demo.gif)
+
 Instead of attaching ten separate screenshots, upload them to the web app (or drop
 them in a folder and run one command), and get a single animation that shows the bug
 flow from start to finish.
